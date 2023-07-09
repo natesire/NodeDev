@@ -1,0 +1,2 @@
+root: C:\Users\nates\AppData\Roaming\nvm
+path: C:\Program Files\nodejs
